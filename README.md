@@ -12,4 +12,6 @@ Once it's set up, make a 'dgmap' shortcut in /usr/bin
 #!/bin/bash
 python /path/to/the/script/dgmap/dgmap.py
 ```
-Once launched, drag it to where you want it. Inside the dungeon, press M and the overlay will pick up the map once it opens.
+Once launched, drag it to where you want it.
+
+Inside the dungeon, press M and the overlay will pick up the map after it opens.
